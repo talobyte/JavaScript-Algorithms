@@ -1,7 +1,5 @@
 # Алгоритми JavaScript та структури даних
 
-[![CI](https://github.com/trekhleb/javascript-algorithms/workflows/CI/badge.svg)](https://github.com/trekhleb/javascript-algorithms/actions?query=workflow%3ACI+branch%3Amaster)
-[![codecov](https://codecov.io/gh/trekhleb/javascript-algorithms/branch/master/graph/badge.svg)](https://codecov.io/gh/trekhleb/javascript-algorithms)
 
 Даний репозиторій приклади багатьох популярних алгоритмів та структур даних на основі JavaScript.
 
