@@ -1,6 +1,6 @@
 # JavaScript Algorithms and Data Structures
 
-*Credit: 
+*Credit:*
 - [trekhleb] https://github.com/trekhleb
 - [Talo] https://github.com/alphaotuken
 
