@@ -1,5 +1,9 @@
 # JavaScript Algorithms and Data Structures
 
+*Credit: 
+- [trekhleb] https://github.com/trekhleb
+- [Talo] https://github.com/alphaotuken
+
 This repository contains JavaScript based examples of many
 popular algorithms and data structures.
 
