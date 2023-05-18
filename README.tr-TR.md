@@ -1,8 +1,5 @@
 # JavaScript Algoritmalar ve Veri Yapıları
 
-[![CI](https://github.com/trekhleb/javascript-algorithms/workflows/CI/badge.svg)](https://github.com/trekhleb/javascript-algorithms/actions?query=workflow%3ACI+branch%3Amaster)
-[![codecov](https://codecov.io/gh/trekhleb/javascript-algorithms/branch/master/graph/badge.svg)](https://codecov.io/gh/trekhleb/javascript-algorithms)
-
 Bu repository JavaScript'e ait popüler
 algoritma ve veri yapılarını içermektedir.
 
