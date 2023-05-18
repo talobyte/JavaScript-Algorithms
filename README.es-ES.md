@@ -1,7 +1,5 @@
 # Algoritmos y Estructuras de Datos en JavaScript
 
-[![CI](https://github.com/trekhleb/javascript-algorithms/workflows/CI/badge.svg)](https://github.com/trekhleb/javascript-algorithms/actions?query=workflow%3ACI+branch%3Amaster)
-[![codecov](https://codecov.io/gh/trekhleb/javascript-algorithms/branch/master/graph/badge.svg)](https://codecov.io/gh/trekhleb/javascript-algorithms)
 
 Este repositorio contiene ejemplos basados en JavaScript de muchos
 algoritmos y estructuras de datos populares.
