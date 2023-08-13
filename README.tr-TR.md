@@ -307,7 +307,3 @@ Altta Big O notations ve farklı input boyutlarına karşın yapılmış perform
 | **Shell sort**        | n&nbsp;log(n)   | depends on gap sequence   | n&nbsp;(log(n))<sup>2</sup>  | 1         | Hayır         |           |
 | **Counting sort**     | n + r           | n + r               | n + r               | n + r     | Evet       | r - dizideki en büyük sayı |
 | **Radix sort**        | n * k           | n * k               | n * k               | n + k     | Evet       | k - en uzun key'in uzunluğu |
-
-## Projeyi Destekleme
-
-Bu projeyi buradan destekleyebilirsiniz ❤️️ [GitHub](https://github.com/sponsors/trekhleb) veya ❤️️ [Patreon](https://www.patreon.com/trekhleb).
